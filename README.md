@@ -1,5 +1,7 @@
 # Chat Realtime
 
+Este deploy utiliza las serverless functions de Vercel para el backend.
+
 https://chat-sf.vercel.app/
 
 ## Alternativa: Railway
